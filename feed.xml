@@ -3,7 +3,7 @@
     <title>李老城肉脯店－北斗創始店</title>
     <link href="https://HalleYuan.github.io/leemeatshop/feed.xml" rel="self" />
     <link href="https://HalleYuan.github.io/leemeatshop" />
-    <updated>2023-11-15T16:01:38+08:00</updated>
+    <updated>2023-11-15T16:24:38+08:00</updated>
     <author>
         <name>Halle Yuan</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://HalleYuan.github.io/leemeatshop/media/posts/9/Li-Lao-Cheng-Rou-Fu-Dian_Chan-Pin-Jia-Mu-Biao.JPG" medium="image" />
             <category term="價目表"/>
 
-        <updated>2023-11-15T16:01:38+08:00</updated>
+        <updated>2023-11-15T16:24:34+08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -33,64 +33,9 @@
         <media:content url="https://HalleYuan.github.io/leemeatshop/media/posts/8/Li-Lao-Cheng-Rou-Fu-Dian_Yun-Fei-Biao.jpg" medium="image" />
             <category term="運費說明"/>
 
-        <updated>2023-11-15T16:01:34+08:00</updated>
+        <updated>2023-11-15T16:24:38+08:00</updated>
             <summary></summary>
         <content></content>
-    </entry>
-    <entry>
-        <title>保存須知</title>
-        <author>
-            <name>Halle Yuan</name>
-        </author>
-        <link href="https://HalleYuan.github.io/leemeatshop/bao-cun-xu-zhi/"/>
-        <id>https://HalleYuan.github.io/leemeatshop/bao-cun-xu-zhi/</id>
-        <media:content url="https://HalleYuan.github.io/leemeatshop/media/posts/7/Li-He-Bao-Zhuang.jpg" medium="image" />
-            <category term="保存須知"/>
-
-        <updated>2023-11-15T16:01:30+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://HalleYuan.github.io/leemeatshop/media/posts/7/Li-He-Bao-Zhuang.jpg" alt="" />
-                    為確保產品新鮮，請依建議方式保存，並於賞味期限內儘快食用喔！
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://HalleYuan.github.io/leemeatshop/media/posts/7/Li-He-Bao-Zhuang.jpg" class="type:primaryImage" alt="" /></p>
-                <p>為確保產品新鮮，請依建議方式保存，並於賞味期限內儘快食用喔！</p>
-<p> </p>
-<table style="border-collapse: collapse; width: 123.932%;" border="1">
-<tbody>
-<tr>
-<td class="align-center" style="width: 16.682%;">產品</td>
-<td class="align-center" style="width: 21.2839%;"><strong>招牌傳統薄片肉乾</strong><br><strong><span style="font-family: var(--editor-font-family); font-size: inherit;">起司蜜汁肉乾</span></strong></td>
-<td class="align-center" style="width: 27.9669%;"><strong>傳統蜜汁肉乾</strong><br><strong>松坂厚片蜜汁肉乾</strong><br><strong>飛卷片</strong><br><strong>小魚干</strong><br><strong>章魚燒</strong></td>
-<td class="align-center" style="width: 33.9291%;"><strong>香腸</strong></td>
-</tr>
-<tr>
-<td class="align-center" style="width: 16.682%;">保存方式</td>
-<td class="align-center" style="width: 21.2839%;">常溫</td>
-<td class="align-center" style="width: 27.9669%;">冷藏</td>
-<td class="align-center" style="width: 33.9291%;">冷凍</td>
-</tr>
-<tr>
-<td class="align-center" style="width: 16.682%;">保存提醒</td>
-<td class="align-center" style="width: 21.2839%;">常溫保存3日<br>避免陽光直曬</td>
-<td class="align-center" style="width: 27.9669%;">常溫12小時<br>請儘速冷藏保存</td>
-<td class="align-center" style="width: 33.9291%;">常溫5小時<br>請儘速冷凍保存</td>
-</tr>
-<tr>
-<td class="align-center" style="width: 16.682%;">賞味期限</td>
-<td class="align-center" style="width: 21.2839%;">冷藏30日</td>
-<td class="align-center" style="width: 27.9669%;">冷藏30日</td>
-<td class="align-center" style="width: 33.9291%;">冷凍30日</td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-<p> </p>
-            ]]>
-        </content>
     </entry>
     <entry>
         <title>看天吃飯‧幫肉片按摩</title>
