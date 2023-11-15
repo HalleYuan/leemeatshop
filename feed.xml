@@ -3,12 +3,95 @@
     <title>肉乾店測試</title>
     <link href="https://HalleYuan.github.io/leemeatshop/feed.xml" rel="self" />
     <link href="https://HalleYuan.github.io/leemeatshop" />
-    <updated>2023-11-15T14:43:11+08:00</updated>
+    <updated>2023-11-15T15:26:06+08:00</updated>
     <author>
         <name>Halle Yuan</name>
     </author>
     <id>https://HalleYuan.github.io/leemeatshop</id>
 
+    <entry>
+        <title>產品價目表</title>
+        <author>
+            <name>Halle Yuan</name>
+        </author>
+        <link href="https://HalleYuan.github.io/leemeatshop/chan-pin-jia-mu-biao/"/>
+        <id>https://HalleYuan.github.io/leemeatshop/chan-pin-jia-mu-biao/</id>
+        <media:content url="https://HalleYuan.github.io/leemeatshop/media/posts/9/Li-Lao-Cheng-Rou-Fu-Dian_Chan-Pin-Jia-Mu-Biao.JPG" medium="image" />
+            <category term="價目表"/>
+
+        <updated>2023-11-15T15:13:15+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>運費表及宅配須知</title>
+        <author>
+            <name>Halle Yuan</name>
+        </author>
+        <link href="https://HalleYuan.github.io/leemeatshop/yun-fei-biao-ji-zhai-pei-xu-zhi/"/>
+        <id>https://HalleYuan.github.io/leemeatshop/yun-fei-biao-ji-zhai-pei-xu-zhi/</id>
+        <media:content url="https://HalleYuan.github.io/leemeatshop/media/posts/8/Li-Lao-Cheng-Rou-Fu-Dian_Yun-Fei-Biao.jpg" medium="image" />
+            <category term="運費說明"/>
+
+        <updated>2023-11-15T15:13:24+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>保存須知</title>
+        <author>
+            <name>Halle Yuan</name>
+        </author>
+        <link href="https://HalleYuan.github.io/leemeatshop/bao-cun-xu-zhi/"/>
+        <id>https://HalleYuan.github.io/leemeatshop/bao-cun-xu-zhi/</id>
+        <media:content url="https://HalleYuan.github.io/leemeatshop/media/posts/7/Li-He-Bao-Zhuang.jpg" medium="image" />
+            <category term="保存須知"/>
+
+        <updated>2023-11-15T15:25:20+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://HalleYuan.github.io/leemeatshop/media/posts/7/Li-He-Bao-Zhuang.jpg" alt="" />
+                    為確保產品新鮮，請依建議方式保存，並於賞味期限內儘快食用喔！
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://HalleYuan.github.io/leemeatshop/media/posts/7/Li-He-Bao-Zhuang.jpg" class="type:primaryImage" alt="" /></p>
+                <p>為確保產品新鮮，請依建議方式保存，並於賞味期限內儘快食用喔！</p>
+<p> </p>
+<table style="border-collapse: collapse; width: 123.932%;" border="1">
+<tbody>
+<tr>
+<td class="align-center" style="width: 16.682%;">產品</td>
+<td class="align-center" style="width: 21.2839%;"><strong>招牌傳統薄片肉乾</strong><br><strong><span style="font-family: var(--editor-font-family); font-size: inherit;">起司蜜汁肉乾</span></strong></td>
+<td class="align-center" style="width: 27.9669%;"><strong>傳統蜜汁肉乾</strong><br><strong>松坂厚片蜜汁肉乾</strong><br><strong>飛卷片</strong><br><strong>小魚干</strong><br><strong>章魚燒</strong></td>
+<td class="align-center" style="width: 33.9291%;"><strong>香腸</strong></td>
+</tr>
+<tr>
+<td class="align-center" style="width: 16.682%;">保存方式</td>
+<td class="align-center" style="width: 21.2839%;">常溫</td>
+<td class="align-center" style="width: 27.9669%;">冷藏</td>
+<td class="align-center" style="width: 33.9291%;">冷凍</td>
+</tr>
+<tr>
+<td class="align-center" style="width: 16.682%;">保存提醒</td>
+<td class="align-center" style="width: 21.2839%;">常溫保存3日<br>避免陽光直曬</td>
+<td class="align-center" style="width: 27.9669%;">常溫12小時<br>請儘速冷藏保存</td>
+<td class="align-center" style="width: 33.9291%;">常溫5小時<br>請儘速冷凍保存</td>
+</tr>
+<tr>
+<td class="align-center" style="width: 16.682%;">賞味期限</td>
+<td class="align-center" style="width: 21.2839%;">冷藏30日</td>
+<td class="align-center" style="width: 27.9669%;">冷藏30日</td>
+<td class="align-center" style="width: 33.9291%;">冷凍30日</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>看天吃飯‧幫肉片按摩</title>
         <author>
@@ -17,8 +100,9 @@
         <link href="https://HalleYuan.github.io/leemeatshop/kan-tian-chi-fanbang-rou-pian-an-mo/"/>
         <id>https://HalleYuan.github.io/leemeatshop/kan-tian-chi-fanbang-rou-pian-an-mo/</id>
         <media:content url="https://HalleYuan.github.io/leemeatshop/media/posts/6/Shai-Rou-Gan.jpg" medium="image" />
+            <category term="製作流程"/>
 
-        <updated>2023-11-15T14:43:11+08:00</updated>
+        <updated>2023-11-15T15:16:55+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://HalleYuan.github.io/leemeatshop/media/posts/6/Shai-Rou-Gan.jpg" alt="日曬肉乾" />
@@ -40,8 +124,11 @@
         <link href="https://HalleYuan.github.io/leemeatshop/te-xuan-bu-weisong-ban-mi-zhi-rou-gan/"/>
         <id>https://HalleYuan.github.io/leemeatshop/te-xuan-bu-weisong-ban-mi-zhi-rou-gan/</id>
         <media:content url="https://HalleYuan.github.io/leemeatshop/media/posts/5/Song-Ban-Mi-Zhi-Rou-Gan.jpg" medium="image" />
+            <category term="豬肉"/>
+            <category term="常溫"/>
+            <category term="冷藏"/>
 
-        <updated>2023-11-15T14:42:19+08:00</updated>
+        <updated>2023-11-15T15:13:46+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://HalleYuan.github.io/leemeatshop/media/posts/5/Song-Ban-Mi-Zhi-Rou-Gan.jpg" alt="松坂蜜汁肉乾" />
@@ -63,8 +150,10 @@
         <link href="https://HalleYuan.github.io/leemeatshop/kou-gan-feng-fuchuan-tong-mi-zhi-rou-gan/"/>
         <id>https://HalleYuan.github.io/leemeatshop/kou-gan-feng-fuchuan-tong-mi-zhi-rou-gan/</id>
         <media:content url="https://HalleYuan.github.io/leemeatshop/media/posts/4/Chuan-Tong-Mi-Zhi-Rou-Gan.jpg" medium="image" />
+            <category term="豬肉"/>
+            <category term="冷藏"/>
 
-        <updated>2023-11-15T14:40:08+08:00</updated>
+        <updated>2023-11-15T15:13:56+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://HalleYuan.github.io/leemeatshop/media/posts/4/Chuan-Tong-Mi-Zhi-Rou-Gan.jpg" alt="傳統蜜汁肉乾" />
@@ -86,8 +175,11 @@
         <link href="https://HalleYuan.github.io/leemeatshop/dai-jing-xiang-weizhu-rou-si/"/>
         <id>https://HalleYuan.github.io/leemeatshop/dai-jing-xiang-weizhu-rou-si/</id>
         <media:content url="https://HalleYuan.github.io/leemeatshop/media/posts/3/Zhu-Rou-Si.jpg" medium="image" />
+            <category term="豬肉"/>
+            <category term="常溫"/>
+            <category term="冷藏"/>
 
-        <updated>2023-11-15T14:39:00+08:00</updated>
+        <updated>2023-11-15T15:26:06+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://HalleYuan.github.io/leemeatshop/media/posts/3/Zhu-Rou-Si.jpg" alt="豬肉絲" />
@@ -109,8 +201,10 @@
         <link href="https://HalleYuan.github.io/leemeatshop/pei-zhou-pei-fanzhao-pai-rou-song/"/>
         <id>https://HalleYuan.github.io/leemeatshop/pei-zhou-pei-fanzhao-pai-rou-song/</id>
         <media:content url="https://HalleYuan.github.io/leemeatshop/media/posts/2/Zhu-Rou-Song.jpg" medium="image" />
+            <category term="豬肉"/>
+            <category term="常溫"/>
 
-        <updated>2023-11-15T14:38:55+08:00</updated>
+        <updated>2023-11-15T15:26:00+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://HalleYuan.github.io/leemeatshop/media/posts/2/Zhu-Rou-Song.jpg" alt="原味豬肉鬆" />
@@ -125,15 +219,18 @@
         </content>
     </entry>
     <entry>
-        <title>好心肝．好肉乾</title>
+        <title>經典味道．傳統薄片肉乾</title>
         <author>
             <name>Halle Yuan</name>
         </author>
         <link href="https://HalleYuan.github.io/leemeatshop/hao-xin-ganhao-rou-gan/"/>
         <id>https://HalleYuan.github.io/leemeatshop/hao-xin-ganhao-rou-gan/</id>
         <media:content url="https://HalleYuan.github.io/leemeatshop/media/posts/1/Chuan-Tong-Bo-Pian-Rou-Gan.jpg" medium="image" />
+            <category term="豬肉"/>
+            <category term="常溫"/>
+            <category term="冷藏"/>
 
-        <updated>2023-11-15T14:39:10+08:00</updated>
+        <updated>2023-11-15T15:25:53+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://HalleYuan.github.io/leemeatshop/media/posts/1/Chuan-Tong-Bo-Pian-Rou-Gan.jpg" alt="傳統薄片豬肉乾" />
