@@ -1,0 +1,104 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "肉乾店測試",
+    "description": "",
+    "home_page_url": "https://HalleYuan.github.io/leemeatshop",
+    "feed_url": "https://HalleYuan.github.io/leemeatshop/feed.json",
+    "user_comment": "",
+    "icon": "https://HalleYuan.github.io/leemeatshop/media/website/logo.png",
+    "author": {
+        "name": "Halle Yuan"
+    },
+    "items": [
+        {
+            "id": "https://HalleYuan.github.io/leemeatshop/kan-tian-chi-fanbang-rou-pian-an-mo/",
+            "url": "https://HalleYuan.github.io/leemeatshop/kan-tian-chi-fanbang-rou-pian-an-mo/",
+            "title": "看天吃飯‧幫肉片按摩",
+            "summary": "嚴選豬的後腿肉（俗稱菜頭肉或老鼠肉），切成薄薄一片後，再用獨特醬料醃製，自然的在太陽光下放在竹篩上曝曬，最後用適度的火喉燒烤成薄、香、酥、脆、微甜、微鹹的肉乾，整個過程繁瑣，就好像在幫肉片按摩一樣。",
+            "content_html": "<h5>嚴選豬的後腿肉（俗稱菜頭肉或老鼠肉），切成薄薄一片後，再用獨特醬料醃製，自然的在太陽光下放在竹篩上曝曬，最後用適度的火喉燒烤成薄、香、酥、脆、微甜、微鹹的肉乾，整個過程繁瑣，就好像在幫肉片按摩一樣。</h5>",
+            "image": "https://HalleYuan.github.io/leemeatshop/media/posts/6/Shai-Rou-Gan.jpg",
+            "author": {
+                "name": "Halle Yuan"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-15T14:43:11+08:00",
+            "date_modified": "2023-11-15T14:43:11+08:00"
+        },
+        {
+            "id": "https://HalleYuan.github.io/leemeatshop/te-xuan-bu-weisong-ban-mi-zhi-rou-gan/",
+            "url": "https://HalleYuan.github.io/leemeatshop/te-xuan-bu-weisong-ban-mi-zhi-rou-gan/",
+            "title": "特選部位．松坂蜜汁肉乾",
+            "summary": "除了傳統蜜汁肉乾外，也有專挑松坂部位的蜜汁肉乾選擇。",
+            "content_html": "<p>除了傳統蜜汁肉乾外，也有專挑松坂部位的蜜汁肉乾選擇。</p>",
+            "image": "https://HalleYuan.github.io/leemeatshop/media/posts/5/Song-Ban-Mi-Zhi-Rou-Gan.jpg",
+            "author": {
+                "name": "Halle Yuan"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-15T14:42:19+08:00",
+            "date_modified": "2023-11-15T14:42:19+08:00"
+        },
+        {
+            "id": "https://HalleYuan.github.io/leemeatshop/kou-gan-feng-fuchuan-tong-mi-zhi-rou-gan/",
+            "url": "https://HalleYuan.github.io/leemeatshop/kou-gan-feng-fuchuan-tong-mi-zhi-rou-gan/",
+            "title": "口感豐富．傳統蜜汁肉乾",
+            "summary": "相較於肉乾薄片，豬肉片有一定厚度，吃起來的口感別有一番風味，加上獨家醬汁的滋味，讓人越吃越續嘴，值得推薦。",
+            "content_html": "<h5>相較於肉乾薄片，豬肉片有一定厚度，吃起來的口感別有一番風味，加上獨家醬汁的滋味，讓人越吃越續嘴，值得推薦。</h5>",
+            "image": "https://HalleYuan.github.io/leemeatshop/media/posts/4/Chuan-Tong-Mi-Zhi-Rou-Gan.jpg",
+            "author": {
+                "name": "Halle Yuan"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-15T14:40:08+08:00",
+            "date_modified": "2023-11-15T14:40:08+08:00"
+        },
+        {
+            "id": "https://HalleYuan.github.io/leemeatshop/dai-jing-xiang-weizhu-rou-si/",
+            "url": "https://HalleYuan.github.io/leemeatshop/dai-jing-xiang-weizhu-rou-si/",
+            "title": "帶勁香味．豬肉絲",
+            "summary": "帶勁而層次口感十足的豬肉絲，在嘴裡細嚼慢嚥，香氣四溢，是迎賓招待，聚會聊時，伴茶或小酌一番，非常不錯的伴點，咬一口豬肉絲，在配上一口甘醇好茶，中和後的好滋味，非得你親自品嚐才能體驗。",
+            "content_html": "<h5>帶勁而層次口感十足的豬肉絲，在嘴裡細嚼慢嚥，香氣四溢，是迎賓招待，聚會聊時，伴茶或小酌一番，非常不錯的伴點，咬一口豬肉絲，在配上一口甘醇好茶，中和後的好滋味，非得你親自品嚐才能體驗。</h5>",
+            "image": "https://HalleYuan.github.io/leemeatshop/media/posts/3/Zhu-Rou-Si.jpg",
+            "author": {
+                "name": "Halle Yuan"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-15T14:38:48+08:00",
+            "date_modified": "2023-11-15T14:39:00+08:00"
+        },
+        {
+            "id": "https://HalleYuan.github.io/leemeatshop/pei-zhou-pei-fanzhao-pai-rou-song/",
+            "url": "https://HalleYuan.github.io/leemeatshop/pei-zhou-pei-fanzhao-pai-rou-song/",
+            "title": "配粥配飯．招牌肉鬆",
+            "summary": "早期農村社會，普遍經濟能力較為不足，只要能吃飯或吃粥時，能配點肉鬆就會覺得好幸福！當然更是高齡長者與孩童的配粥配飯佐食，香噴可口，開胃也增加食慾，而在各式菜色中，也適合加點肉鬆以資提味",
+            "content_html": "<h5>早期農村社會，普遍經濟能力較為不足，只要能吃飯或吃粥時，能配點肉鬆就會覺得好幸福！當然更是高齡長者與孩童的配粥配飯佐食，香噴可口，開胃也增加食慾，而在各式菜色中，也適合加點肉鬆以資提味</h5>",
+            "image": "https://HalleYuan.github.io/leemeatshop/media/posts/2/Zhu-Rou-Song.jpg",
+            "author": {
+                "name": "Halle Yuan"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-15T14:36:57+08:00",
+            "date_modified": "2023-11-15T14:38:55+08:00"
+        },
+        {
+            "id": "https://HalleYuan.github.io/leemeatshop/hao-xin-ganhao-rou-gan/",
+            "url": "https://HalleYuan.github.io/leemeatshop/hao-xin-ganhao-rou-gan/",
+            "title": "好心肝．好肉乾",
+            "summary": "李老城肉乾，正如其百年來所堅持「唯有好心肝，才能做出好肉乾」 薄薄的一片巴掌大，形狀不規則，薄、香、酥、脆、微甜、微鹹，一直是老饕客所指定的品牌，一陣子沒吃到時，真得會抗拒不了嘴饞的誘惑。",
+            "content_html": "<h5>李老城肉乾，正如其百年來所堅持「唯有好心肝，才能做出好肉乾」<br>薄薄的一片巴掌大，形狀不規則，薄、香、酥、脆、微甜、微鹹，一直是老饕客所指定的品牌，一陣子沒吃到時，真得會抗拒不了嘴饞的誘惑。</h5>",
+            "image": "https://HalleYuan.github.io/leemeatshop/media/posts/1/Chuan-Tong-Bo-Pian-Rou-Gan.jpg",
+            "author": {
+                "name": "Halle Yuan"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-15T14:27:59+08:00",
+            "date_modified": "2023-11-15T14:39:10+08:00"
+        }
+    ]
+}
